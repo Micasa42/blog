@@ -1,1 +1,9 @@
-Es una prueba de conexion
+Es una prueba de conexion, he hecho lo siguiente.
+Lo abro desde el conectado
+
+git init
+git add *
+git commit -m "primera subida"
+git push
+
+y ya tá
