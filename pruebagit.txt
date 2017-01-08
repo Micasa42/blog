@@ -7,3 +7,7 @@ git commit -m "primera subida"
 git push
 
 y ya tá
+y si se modifica
+
+git commit -m "primera subida"
+git push
